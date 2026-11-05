@@ -1,0 +1,13 @@
+﻿第三方组件
+
+DanmakuFactory 核心（danmakufactory_core.dll）及项目图标来自 hihkm/DanmakuFactory。保留原作者版权及 MIT 许可，全文见 LICENSE。图标已嵌入 EXE。
+https://github.com/hihkm/DanmakuFactory
+
+核心静态包含 PCRE2 正则匹配代码。随附其 BSD 三条款许可及 PCRE2 例外；另列出可选 SLJIT 组件的 BSD 两条款声明。见 licenses 文件夹。
+https://github.com/PCRE2Project/pcre2
+
+vcruntime140.dll 为 Microsoft Visual C++ x64 运行库。© Microsoft Corporation。此文件按微软 Visual Studio 的可分发代码条款提供，保持原始二进制及数字签名。项目的 MIT 许可仅适用于项目代码。
+https://learn.microsoft.com/visualstudio/releases/2026/redistribution
+https://visualstudio.microsoft.com/license-terms/
+
+Windows、.NET Framework、系统 DLL 和系统字体由用户的 Windows 安装提供，适用各自许可。
